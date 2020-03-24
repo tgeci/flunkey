@@ -1,10 +1,8 @@
-# Flunkey Mirror
 ![image](https://user-images.githubusercontent.com/4592657/77485129-ac816900-6e2c-11ea-8dc0-144a6f164cfc.png)
 
 Flunkey Mirror is a open source Python and Vue.js powered smart mirror project inspired by other smart mirror project like @evancohen's one.
 
 ## Why annother smart mirror project ?
----
 Most of open source smart mirror projects are based on heavy frontend frameworks like Angular or as combination of a lot node modules. 
 This project seperates frontend and backend and uses lightweight frameworks to be easy expandable.
 
