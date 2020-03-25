@@ -14,7 +14,7 @@ Flunkey is based on four components **flunkey-glass**, **flunkey-api**, **flunke
 ### flunkey-glass
 **flunkey-glass** is the component which is responsible for the presenation of information on the mirror.
 
-![image](https://user-images.githubusercontent.com/4592657/77486610-7645e880-6e30-11ea-9d5f-d64ac04adf1d.png)
+![image](https://user-images.githubusercontent.com/4592657/77528938-17638c00-6e8f-11ea-8170-185cb5747705.png)
 Technically it is a electron-vue app running in fullscreen on a Raspberry Pi 4. Every visible widget on it is a Vue.js Component, which loads data from the **flunkey-api**.
 
 ### flunkey-api
