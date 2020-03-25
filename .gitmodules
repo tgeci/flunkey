@@ -1,0 +1,3 @@
+[submodule "flunkey-glass"]
+	path = flunkey-glass
+	url = git@github.com:tgeci/flunkey-glass.git
