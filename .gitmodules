@@ -1,6 +1,8 @@
 [submodule "flunkey-glass"]
 	path = flunkey-glass
 	url = git@github.com:tgeci/flunkey-glass.git
+	branch = master
 [submodule "flunkey-api"]
 	path = flunkey-api
 	url = git@github.com:tgeci/flunkey-api.git
+	branch = master
