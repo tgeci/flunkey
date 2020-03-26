@@ -6,3 +6,6 @@
 	path = flunkey-api
 	url = git@github.com:tgeci/flunkey-api.git
 	branch = master
+[submodule "flunkey-utils"]
+	path = flunkey-utils
+	url = git@github.com:tgeci/flunkey-utils.git
